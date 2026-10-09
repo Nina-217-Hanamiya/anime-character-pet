@@ -1,0 +1,4 @@
+interface:
+  display_name: "动漫角色原素材桌宠"
+  short_description: "联网寻找原角色素材，制作小人动画并检查眼睛比例、定位和动作衔接"
+  default_prompt: "使用 $anime-character-pet，按联网原素材制作这个角色的小人，并检查眼睛定位、表情与动作切换。"
